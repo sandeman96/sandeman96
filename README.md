@@ -1,6 +1,7 @@
+<div align="center" style="text-align:center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8EFB8E&height=300&section=header&text=Jin%20Gwang&fontSize=90)
 
-<div align="center" style="text-align:center">
 
 ### 🐣 Junior 🐥
 ----------------------------
